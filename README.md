@@ -20,4 +20,5 @@ A Premiere Pro extension that syncs a video project across two different compute
 - Twitch: [willpcctv](https://twitch.tv/willpcctv)
 
 ## 📫 Contact
-Open an issue on any repo below if you want to report a bug or just say hi.
+Feel free to add me on Discord! willpcctv
+or join the Entanglement Redux [Discord!](https://discord.gg/5EJ34AdJZ5)
