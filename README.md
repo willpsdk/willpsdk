@@ -2,7 +2,7 @@
 
 i don't know what im doing, but here's what I've built anyway.
 
-I mod VR games — mostly multiplayer support for titles that were never meant to have it — and mess around with FiveM on the side :)
+I mod VR games — mostly multiplayer. But I code in C#, C, C++ & Lua and have a strong understanding in Steamworks Networking & Creating Syncronised Multiplayer modificatons for games that where never supposed to have them. :)
 
 ## 🔧 Projects
 
