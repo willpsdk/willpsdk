@@ -12,13 +12,13 @@ An alternative multiplayer mod for BONEWORKS, rebuilt on Steamworks with a rewri
 ### [totf-multiplayer](https://github.com/willpsdk/totf-multiplayer)
 A experimental multiplayer mod for *The Thrill of the Fight* — VR boxing - This was just a Demo I made with some friends.
 
-### [willpsdk-premiere-sync](https://github.com/willpsdk/willpsdk-premiere-sync)
-A Premiere Pro extension that syncs a video project across two different computers. 
+### [Rockstar Editor Enhanced](https://github.com/willpsdk/Rockstar-Editor-Enhanced)
+A little Scripthook ASI Plugin I made to change and fix some issues with the Rockstar Editor, mainly higher bitrate exports & fps and tabbing out or losing focus of the game keeps the recording going.
 
 ## 📺 Elsewhere
 - YouTube: [@willpcctv](https://youtube.com/@willpcctv)
 - Twitch: [willpcctv](https://twitch.tv/willpcctv)
 
 ## 📫 Contact
-Feel free to add me on Discord! willpcctv
+Feel free to add me on Discord! 'willpcctv'
 or join the Entanglement Redux [Discord!](https://discord.gg/5EJ34AdJZ5)
